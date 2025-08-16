@@ -17,10 +17,10 @@ export default function Contact() {
               style={{ border: 0 }}
               allowFullScreen={false}
               loading="lazy"
+              title="Google Map Location"
             ></iframe>
           </div>
 
-          {/* Contact Info */}
           {/* Contact Info */}
           <div className="bg-base-100 p-6 rounded-lg shadow">
             <div className="flex items-center justify-between mb-4">
