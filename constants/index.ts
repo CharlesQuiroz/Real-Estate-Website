@@ -14,21 +14,21 @@ export const Services = [
     title: "Real Estate Done Right",
     description:
       "Nervous about your property adventure? Don’t be. Whether you're getting ready to buy or sell your residence, looking at investment properties, or just curious about the markets, our team ensures you get the best experience possible!",
-    icon: Home, // 👈 added
+    icon: Home, 
   },
   {
     img: "/service-2.webp",
     title: "Commercial & Residential",
     description:
       "Large or small, condo or mansion, we can find it and get at the price that's right. Fixer-uppers? Luxury? We can help with all of it! We live, work, and play in this community. Happy to help you find where to put you hard-earned dollars.",
-    icon: Building2, // 👈 added
+    icon: Building2, 
   },
   {
     img: "/service-3.webp",
     title: "Rely on Expertise",
     description:
       "If you have questions about affordability, credit, and loan options, trust us to connect you with the right people to get the answers you need in a timely fashion. We make sure you feel confident and educated every step of the way.",
-    icon: BarChart3, // 👈 added
+    icon: BarChart3, 
   },
 ];
 
