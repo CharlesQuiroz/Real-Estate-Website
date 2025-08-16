@@ -69,7 +69,7 @@ export const GetSold = [
       "Get it SOLD! We exhaust every avenue to ensure our listings are at the fingertips of every possible buyer, getting you top dollar for your home.",
   },
   {
-    img: "/Guide.webp",
+    img: "/guide.webp",
     title: "Guide to Buyers",
     description:
       "Nobody knows the market like we do. Enjoy having a pro at your service. Market analysis, upgrades lists, contractors on speed dial, & more!",
