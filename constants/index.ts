@@ -57,22 +57,22 @@ export const Companies = [
 
 export const GetSold = [
   {
-    img: "/service-1.webp",
-    title: "Real Estate Done Right",
+    img: "/top.webp",
+    title: "Top Residential Sales Last 5 Years",
     description:
-      "Nervous about your property adventure? Don’t be. Whether you're getting ready to buy or sell your residence, looking at investment properties, or just curious about the markets, our team ensures you get the best experience possible!",
+      "Our team works hard everyday to grow and learn, so that we may continue to excel in our market. Our clients deserve our best, & we want to make sure our best is better every year."
   },
   {
-    img: "/service-2.webp",
-    title: "Commercial & Residential",
+    img: "/list.webp",
+    title: "Don't Just List It...",
     description:
-      "Large or small, condo or mansion, we can find it and get at the price that's right. Fixer-uppers? Luxury? We can help with all of it! We live, work, and play in this community. Happy to help you find where to put you hard-earned dollars.",
+      "Get it SOLD! We exhaust every avenue to ensure our listings are at the fingertips of every possible buyer, getting you top dollar for your home.",
   },
   {
-    img: "/service-3.webp",
-    title: "Rely on Expertise",
+    img: "/Guide.webp",
+    title: "Guide to Buyers",
     description:
-      "If you have questions about affordability, credit, and loan options, trust us to connect you with the right people to get the answers you need in a timely fashion. We make sure you feel confident and educated every step of the way.",
+      "Nobody knows the market like we do. Enjoy having a pro at your service. Market analysis, upgrades lists, contractors on speed dial, & more!",
   },
 ];
 
